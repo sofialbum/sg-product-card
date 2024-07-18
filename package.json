@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.0-rc",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -8,7 +8,7 @@
     "src"
   ],
   "repository": {
-    "url": "https://github.com/sofialbum/sg-product-card?tab=readme-ov-file",
+    "url": "https://github.com/sofialbum/sjg-product-card",
     "type": "git"
   },
   "engines": {
@@ -38,16 +38,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "sg-product-card",
+  "name": "sjg-product-card",
   "author": "Sofía González",
-  "module": "dist/sg-product-card.esm.js",
+  "module": "dist/sjg-product-card.esm.js",
   "size-limit": [
     {
-      "path": "dist/sg-product-card.cjs.production.min.js",
+      "path": "dist/sjg-product-card.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/sg-product-card.esm.js",
+      "path": "dist/sjg-product-card.esm.js",
       "limit": "10 KB"
     }
   ],
