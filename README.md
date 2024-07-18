@@ -1,4 +1,4 @@
-# SG-Product-Card
+# SJG-Product-Card
 
 Este es un paquete de pruebas de despliegue en NPM
 
@@ -7,7 +7,7 @@ Este es un paquete de pruebas de despliegue en NPM
 ## Ejemplo
 
 ```
-import { ProductCard, ProductImage, ProductButtons } from 'sg-product-card';
+import { ProductCard, ProductImage, ProductButtons } from 'sjg-product-card';
 ```
 
 
